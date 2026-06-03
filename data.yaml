@@ -1,0 +1,7 @@
+path: ../Licence late Detection.yolov8
+train: train/images
+val: ./valid/images
+
+nc: 1
+names:
+  - Licence-Plate
